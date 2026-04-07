@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "docx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "150be87ff7b18f273ad07da303adb1cf2ca21cc3e76db7a2cf0373405178a278"
+    },
+    "pdf": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "37226d4220d844377e6b2a386c51a011df4cd130855ff0b80bcc22f9c28abd57"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "57f470f512f45bdac598e302bc72fd62bf2b649fc7fad032efe97720149cde4d"
+    }
+  }
+}
